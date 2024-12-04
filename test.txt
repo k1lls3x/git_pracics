@@ -6,3 +6,4 @@ Adding new text && commit
 L
 Kira
 add line
+commit test
