@@ -1,5 +1,5 @@
 Hello, Arch!
-странная строка
+странная строка2
 Second Try
 
 Adding new text && commit
