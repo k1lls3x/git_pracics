@@ -1,5 +1,9 @@
 Hello, Arch!
+<<<<<<< HEAD
 меняю строку
+=======
+странная строка2
+>>>>>>> 42bd11efeac509ce447164b1723b48161a13f9c7
 Second Try
 
 Adding new text && commit
